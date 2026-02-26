@@ -1,29 +1,46 @@
-# Project
+# DormDash
 
-## Setup
+Student-to-student food delivery for campus communities.
+
+## Overview
+
+DormDash connects students who want food with students who can deliver it fast. It is designed for on-campus use with simple ordering, pickup, and delivery flows.
+
+## Features
+
+- Browse and order from nearby students
+- Simple order flow and status updates
+- Mobile-friendly UI
+
+## Tech Stack
+
+- Vite
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn-ui
+
+## Getting Started
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
 
-## Technologies
+## Scripts
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- `npm run dev` - local dev server
+- `npm run build` - production build
+- `npm run preview` - preview production build
+- `npm run test` - run tests (if configured)
 
 ## Deployment
 
-Use your preferred hosting provider for Vite/React apps.
+Vercel
+
+- Build command: `npm run build`
+- Output directory: `dist`
+
+## Notes
+
+This is a portfolio project. Content and branding can be customized.
