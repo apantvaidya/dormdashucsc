@@ -41,6 +41,4 @@ Vercel
 - Build command: `npm run build`
 - Output directory: `dist`
 
-## Notes
 
-This is a portfolio project. Content and branding can be customized.
